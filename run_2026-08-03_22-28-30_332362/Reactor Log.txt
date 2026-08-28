@@ -1,0 +1,7 @@
+Logging to: C:\BLU\DOCS\run_2026-08-03_22-28-30_332362\Reactor Log.txt
+Mode:
+1:Add
+2:drain
+3:heat
+4:cool
+Chemical:Current Temperature:Enviroment Temperature:K: Required Temperature:Current Amount:
