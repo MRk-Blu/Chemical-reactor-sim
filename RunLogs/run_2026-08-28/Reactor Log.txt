@@ -1,0 +1,19 @@
+Logging to: folder_path\RunLogs\run_2026-08-28\Reactor Log.txt
+Mode:
+1:Add
+2:drain
+3:heat
+4:cool
+Chemical:Current Temperature:Enviroment Temperature:K: Required Temperature:Current Amount:Chemical Heat Limit:Chemical Cool Limit:Run Time:Chemical Density:Rate:---Adding Hydrogen to Reactor
+1 Seconds : 1.0 Ltrs in Reactor
+2 Seconds : 2.0 Ltrs in Reactor
+3 Seconds : 3.0 Ltrs in Reactor
+4 Seconds : 4.0 Ltrs in Reactor
+5 Seconds : 5.0 Ltrs in Reactor
+6 Seconds : 6.0 Ltrs in Reactor
+7 Seconds : 7.0 Ltrs in Reactor
+8 Seconds : 8.0 Ltrs in Reactor
+9 Seconds : 9.0 Ltrs in Reactor
+10 Seconds : 10.0 Ltrs in Reactor
+The Chemical has been added
+            10.0  of Hydrogen gallons in Reactor

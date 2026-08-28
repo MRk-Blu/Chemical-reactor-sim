@@ -7,7 +7,8 @@ from pathlib import Path
 from pdb import run
 from scipy.integrate import quad
 
-folder_path=Path("Chemical-reactor-sim-Remodeled")
+folder_path=Path("chemical-reactor-sim")
+
 class Tee:
     def __init__(self, *streams):
         self.streams = streams
@@ -24,10 +25,10 @@ class Tee:
         return True
 
 
-log_dir = Path(r"")
+log_dir = Path(r"folder_path/RunLogs")
 log_dir.mkdir(parents=True, exist_ok=True)
 
-run_stamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S_%f")
+run_stamp = datetime.now().strftime("%Y-%m-%d")
 log_folder = log_dir / f"run_{run_stamp}"
 log_folder.mkdir(parents=True, exist_ok=True)
 log_file = log_folder / "Reactor Log.txt"

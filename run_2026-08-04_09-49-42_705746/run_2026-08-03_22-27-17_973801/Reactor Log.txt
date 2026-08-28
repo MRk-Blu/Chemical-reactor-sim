@@ -1,6 +1,0 @@
-Logging to: C:\BLU\DOCS\run_2026-08-03_22-27-17_973801\Reactor Log.txt
-Mode:
-1:Add
-2:drain
-3:heat
-4:cool
